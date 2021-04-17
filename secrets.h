@@ -3,9 +3,9 @@
 #define SECRET
 #define THINGNAME "ESP32_Test"                                       //change this
 
-char WIFI_SSID[]="CFTL";
-char WIFI_PASSWORD[]="@dm1n2021~";                                 //change this
-const char AWS_IOT_ENDPOINT[] = "a3cwf735l1zlus-ats.iot.us-east-1.amazonaws.com";        //change this
+char WIFI_SSID[]="";
+char WIFI_PASSWORD[]="";                                 //change this
+const char AWS_IOT_ENDPOINT[] = "a3cwl1zlus-ats.iot.us-east-1.amazonaws.com";        //change this
 
 
 // Amazon Root CA 1
